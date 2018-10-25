@@ -6,8 +6,6 @@ import javax.swing.JPanel;
 
 /**
  * The custom panel to draw stuff on.
- * 
- * @author Juhyung Kim
  */
 public class MyPanel extends JPanel {
     
